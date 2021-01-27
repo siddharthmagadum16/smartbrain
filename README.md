@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+SmartBrain-API The repository contains files related to frontend part of [smartbrain](https://smart-face-recoginser.herokuapp.com/) web app. The backend part can be found in [this](https://github.com/siddharthmagadum16/smartbrain-api) repository.
+
+smartbrain is a full stack web app built on PERN stack. 
+It detects the faces in from an image (provided in the form of URL, ending with image extensions).
+
 ## Available Scripts
 
 In the project directory, you can run:
