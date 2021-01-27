@@ -4,6 +4,7 @@ SmartBrain-API The repository contains files related to frontend part of [smartb
 
 smartbrain is a full stack web app built on PERN stack. 
 It detects the faces in from an image (provided in the form of URL, ending with image extensions).
+The web app is deployed on heroku
 
 ## Available Scripts
 
