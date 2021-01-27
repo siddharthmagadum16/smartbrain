@@ -1,0 +1,7 @@
+
+.body {
+    
+    display: inline-block;
+    background-blend-mode: linear-gradient(90deg,rgb(247, 90, 84) 10%,rgb(159, 71, 241) 90%);
+    
+}

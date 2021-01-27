@@ -1,0 +1,11 @@
+.font1{
+    /* font-family: fantasy; */
+
+    font: 400;
+    /* font-style: italic; */
+}
+.font2 {
+    /* font-family: monospace; */
+    font: 500;
+    font-style: oblique;
+}

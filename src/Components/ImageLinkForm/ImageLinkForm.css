@@ -1,0 +1,27 @@
+.form {
+    width: 700px;
+    background-color:#001;
+    background-image: radial-gradient(white 10%, transparent 10%),
+    radial-gradient(white 10%, transparent 10%);
+    background-size: 60px 60px;
+    background-position: 8px -2px, 40px 45px;
+}
+
+.bordercss1 {
+    border-radius: 2rem 0rem 0rem 2rem;
+    outline: none;
+    border: none;
+    
+}
+.bordercss2 {
+    border-radius: 0rem 2rem 2rem 0rem;
+    outline: none;
+    border: 0;
+    /* padding: rem; */
+
+}
+button:focus {
+    border:none;
+    outline: none;
+    outline-style: none;
+}
